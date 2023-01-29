@@ -1,10 +1,13 @@
 ---
-source: https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
+
 title: Music LM
 description: Cet article présente la dernière AI des chercheurs de Google Music LM.
+date: 29.01.2023
+source: https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
 ---
 
-### Cet article présente la dernière AI des chercheurs de Google. Music LM est capable de généré de la musique à partir d’un texte donné. Bien que cet outil soit au stade de recherche, je m’y suis intéressée, car il a le même principe de fonctionnement que Dall.e, un outil qui fascine les créatifs actuellement.
+### La dernière AI des chercheurs de Google. 
+Music LM est capable de généré de la musique à partir d’un texte donné. Bien que cet outil soit au stade de recherche, je m’y suis intéressée, car il a le même principe de fonctionnement que Dall.e, un outil qui fascine les créatifs actuellement.
 
 ## Quelle utilité pour Music LM
 MusicLM est capable de générer de la musique en utilisant du texte en entrée, on peut décrire un style musical, demander certains instruments, etc. 
