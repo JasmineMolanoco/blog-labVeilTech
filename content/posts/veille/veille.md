@@ -1,7 +1,7 @@
 ---
 title: Système d'écoute mis en place
 description: J'ai tester Github Copilot sur un projet frontend develloper avec Angular
-date: 31.01.2023
+date: 2023-01-31
 draft: false
 ---
 

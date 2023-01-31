@@ -1,7 +1,7 @@
 ---
 title: Adobe Express va-t-il remplacer Canva?
 Description: Cette vidéo présente le nouvel outil de création de contenu online d'Adobe
-Date: 30.01.2023
+date: 2023-01-30
 source: https://www.youtube.com/watch?v=P_ywVFELKpE
 draft: false
 ---
@@ -14,3 +14,6 @@ Adobe Express est pratique, car il est intégré à la bibliothèque Adobe CC, p
 
 ## Pourquoi j'utiliserais surement Adobe Express à la place de Canvas
 J'utilise actuellement Canva pour la création rapide de contenu, mais en tant que graphiste, j'ai des difficultés avec leur catalogue de typographie. Ayant été formé sur Adobes, j'apprécie l'idée de pouvoir bénéficier de tous leurs avantages dans un format plus léger, concis et facilement accessible. Je compte continuer à utiliser leurs logiciels à l'avenir, donc passer de Canva à Adobe Express fait sens pour moi.
+
+
+source: https://www.youtube.com/watch?v=P_ywVFELKpE

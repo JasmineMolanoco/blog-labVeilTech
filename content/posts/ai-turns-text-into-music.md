@@ -2,7 +2,7 @@
 
 title: Music LM
 description: Cet article présente la dernière AI des chercheurs de Google Music LM.
-date: 29.01.2023
+date: 2023-01-29
 source: https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
 draft: false
 ---
@@ -19,3 +19,6 @@ Ce projet fait rêver les créateurs de contenu média qui pourraient développe
 Malheureusement, cette AI reste réservée aux chercheurs qui développent des AI autour de la musique. Google ne souhaite pas entrée dans des conflits de droits d’auteurs, plagiat, etc. 
 
 Bien que ce genre d’AI (chat GPT, Dall.e, etc.) est intéressant à utiliser dans mon métier pour une première phase de recherche. Il ne faudrait pas utiliser le produit de ses AI pour travail final, car il peut être le résultat d’une forme de plagiat.
+
+
+source: https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai

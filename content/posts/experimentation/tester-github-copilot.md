@@ -1,7 +1,7 @@
 ---
 title: Github copilot 
 description: J'ai tester Github Copilot sur un projet frontend develloper avec Angular
-date: 29.01.2023
+date: 2023-01-29
 source: https://github.com/features/copilot
 draft: false
 ---
@@ -16,3 +16,6 @@ Pour le cours de Develloppement Mobile nous avons du réalisé une application d
 Au début, j'étais un peu surprise par les propositions et les ignorais souvent, car j'avariai l'impression d'être interrompue. Mais par la suite, j'avais presque l'impression que Copilot devinait exactement ce que je voulais coder et cela me permettait d'avancer assez vite et d'éviter les fautes de frappe. Parfois, je savais ce que je voulais comme résultat, mais ne savais pas exactement comment formuler une fonction, à nouveau copilote avec l'aide des commentaires et du contexte fournis de bonne proposition.
 
 Finalement cette expérience m'a montré que Copilot n'est pas là pour coder à ma place, mais il aide à dégrossir les étapes du code. Il me permet de me concentrer sur le tout et de ne pas perdre trop de temps sur des détails.
+
+
+source: https://github.com/features/copilot
