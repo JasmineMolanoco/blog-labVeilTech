@@ -3,6 +3,7 @@ title: Github copilot
 description: J'ai tester Github Copilot sur un projet frontend develloper avec Angular
 date: 29.01.2023
 source: https://github.com/features/copilot
+draft: false
 ---
 ## Qu'est-ce que Copilot?
 GitHub Copilot est un plug-in de recommandation de code. Il aide à coder plus rapidement en suggérant des bouts de code en temps réel en fonction du contexte. 

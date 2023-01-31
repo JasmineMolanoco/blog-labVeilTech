@@ -4,6 +4,7 @@ title: Music LM
 description: Cet article présente la dernière AI des chercheurs de Google Music LM.
 date: 29.01.2023
 source: https://www.theverge.com/2023/1/28/23574573/google-musiclm-text-to-music-ai
+draft: false
 ---
 
 ## La dernière AI des chercheurs de Google. 
