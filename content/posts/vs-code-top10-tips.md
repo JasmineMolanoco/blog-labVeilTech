@@ -1,6 +1,6 @@
 ---
 title: 10 astuces de pro pour Visual Studio code
-description: Dans la vidéo, Fireship partage ses dix astuces pour améliorer l'utilisation de Visual Studio Code.
+description: Dans cette vidéo, Fireship partage ses dix astuces pour améliorer l'utilisation de Visual Studio Code.
 date: 2023-01-31
 source: https://www.youtube.com/watch?v=u21W_tfPVrY
 draft: false

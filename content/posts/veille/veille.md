@@ -1,15 +1,18 @@
 ---
 title: Système d'écoute mis en place
-description: J'ai tester Github Copilot sur un projet frontend develloper avec Angular
+description: Mes canaux d'écoute pour rester à la page sur le développement web et la création dans le monde du digital.
 date: 2023-01-31
 draft: false
 ---
 
+## Newsletters
 Le premier canal d'écoute que j'ai mis en place est celui des newsletters. Je me suis abonné à deux newsletters : TLDR sur le monde de la technologie et Cargo Collective sur les sites web créatifs.
 TLDR est une newsletter quotidienne qui réunit plusieurs articles touchant divers sujets autour du monde de la technologie. Ce principe est intéressant, car il me permet de constamment découvrir de nouvelles sources.Cargo Collective est un CMS pour les créatifs; il propose une newsletter hebdomadaire avec un poème, une dissertation, etc. sur un sujet philosophique/artistique. Et il met en avant les meilleurs sites créés sur leur plateforme.
 
+## Sitewebs
 En tant que personne visuelle, je trouve plus stimulant d'observer les dernières tendances en matière de web sur une source comme Awwward, qui vont quotidiennement mettre en avant les sites les plus innovants du moment. Je parcours également Behance pour m'exposer au monde de la création en général.
 
+## Youtube
 Pour les outils de développement web en particulier, j'aime regarder les vidéos de Fireship qui présente régulièrement des tutoriels et actualités sur la programmation. Le format vidéo m'aide à mieux assimiler le contenu technique.
 
 Le système d'écoute mis en place me permet d'avoir régulièrement des rappels avec les newsletters, mais aussi d'explorer et de m'inspirer grâce à mes sites web favoris.

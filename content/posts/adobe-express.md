@@ -1,6 +1,6 @@
 ---
 title: Adobe Express va-t-il remplacer Canva?
-Description: Cette vidéo présente le nouvel outil de création de contenu online d'Adobe
+Description: Cette vidéo présente le nouvel outil de création de contenu online d'Adobe.
 date: 2023-01-30
 source: https://www.youtube.com/watch?v=P_ywVFELKpE
 draft: false

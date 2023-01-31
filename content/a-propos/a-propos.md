@@ -1,12 +1,13 @@
 ---
-title: Creative dev à direction artistique - Ikigaï
-description: Mon parcours et perspective d'avenir qu'est ce qui découle de mon Ikigaï
+title: Creative dev à direction artistique
+description: Mon parcours et perspective d'avenir qu'est ce qui découle de mon Ikigaï.
 draft: false
 cover:
     image: './Ikigai-jasmine-moalno-m492.png'
 ---
 
-![image](./Ikigai-jasmine-moalno-m492.png)
+![image](/labveillTech/content/a-propos/Ikigai-jasmine-moalno-m492.png)
+
 
 Je suis passionné par les expressions artistiques, comme la mode, la musique et le cinéma, ce qui m'a incité à étudier le graphisme. J'ai découvert l'importance du design dans notre vie quotidienne. 
 

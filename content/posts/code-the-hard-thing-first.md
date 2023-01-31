@@ -1,8 +1,8 @@
 ---
 title: Coder ses incertitudes 
-description: J'ai tester Github Copilot sur un projet frontend develloper avec Angular
+description: Commencer un projet autrement grace à la méthode de Swizec.
 date: 2023-01-31
-source: https://github.com/features/copilot
+source: https://swizec.com/blog/start-coding-at-the-point-of-least-certainty/?utm_source=tldrnewsletter
 draft: false
 ---
 

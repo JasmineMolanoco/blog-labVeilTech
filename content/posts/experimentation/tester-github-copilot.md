@@ -1,6 +1,6 @@
 ---
 title: Github copilot 
-description: J'ai tester Github Copilot sur un projet frontend develloper avec Angular
+description: J'ai tester Github Copilot sur un projet frontend, devellopé avec Angular.
 date: 2023-01-29
 source: https://github.com/features/copilot
 draft: false
