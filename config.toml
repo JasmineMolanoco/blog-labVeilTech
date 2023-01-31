@@ -39,7 +39,7 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = 'Home'
-    name = 'Posts'
+    name = 'Articles'
     url = '/posts'
     weight = 1
      [[menu.main]]
